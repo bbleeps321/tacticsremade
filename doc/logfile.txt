@@ -1,0 +1,64 @@
+Class documentation
+<---- javadoc command: ---->
+c:\program files\java\jdk1.5.0_04\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.5
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+K:\My Work\Java\Tactics Remade\doc
+-classpath
+C:\BlueJ\lib\junit.jar
+K:\My Work\Java\Tactics Remade\AI.java
+<---- end of javadoc command ---->
+Loading source file K:\My Work\Java\Tactics Remade\AI.java...
+Constructing Javadoc information...
+K:\My Work\Java\Tactics Remade\AI.java:10: cannot find symbol
+symbol  : class Unit
+location: class AI
+    private static Unit myUnit; // the parent unit
+                   ^
+K:\My Work\Java\Tactics Remade\AI.java:12: cannot find symbol
+symbol  : class Unit
+location: class AI
+    private static ArrayList<Unit> myEnemy; // the enemy unit, regardless of sides
+                             ^
+K:\My Work\Java\Tactics Remade\AI.java:19: cannot find symbol
+symbol  : class Unit
+location: class AI
+    public static Unit getTarget(Unit parentUnit, ArrayList<ArrayList<Unit>> enemies)
+                                 ^
+K:\My Work\Java\Tactics Remade\AI.java:19: cannot find symbol
+symbol  : class Unit
+location: class AI
+    public static Unit getTarget(Unit parentUnit, ArrayList<ArrayList<Unit>> enemies)
+                                                                      ^
+K:\My Work\Java\Tactics Remade\AI.java:19: cannot find symbol
+symbol  : class Unit
+location: class AI
+    public static Unit getTarget(Unit parentUnit, ArrayList<ArrayList<Unit>> enemies)
+                  ^
+K:\My Work\Java\Tactics Remade\AI.java:63: cannot find symbol
+symbol  : class Unit
+location: class AI
+    private static int distanceFrom(Unit thatUnit)
+                                    ^
+Standard Doclet version 1.5.0_04
+Building tree for all the packages and classes...
+Generating K:\My Work\Java\Tactics Remade\doc\AI.html...
+Generating K:\My Work\Java\Tactics Remade\doc\package-frame.html...
+Generating K:\My Work\Java\Tactics Remade\doc\package-summary.html...
+Generating K:\My Work\Java\Tactics Remade\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating K:\My Work\Java\Tactics Remade\doc\allclasses-frame.html...
+Generating K:\My Work\Java\Tactics Remade\doc\allclasses-noframe.html...
+Generating K:\My Work\Java\Tactics Remade\doc\index.html...
+Generating K:\My Work\Java\Tactics Remade\doc\stylesheet.css...
+6 warnings

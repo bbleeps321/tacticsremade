@@ -1,0 +1,21 @@
+Level: 1
+Exp: 0
+HP: 20
+Strength: 3
+Defense: 2
+Skill: 3
+Speed: 3
+Movement Range: 3
+Weapon1: Fire
+Weapon2: DUMMY
+Weapon3: DUMMY
+Weapon4: DUMMY
+Item1: DUMMY
+	Uses Left: 0
+Item2: DUMMY
+	Uses Left: 0
+Item3: DUMMY
+	Uses Left: 0
+Item4: DUMMY
+	Uses Left: 0
+Wieldable: Spell

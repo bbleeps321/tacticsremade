@@ -1,0 +1,21 @@
+Level: 3
+Exp: 0
+HP: 30
+Strength: 7
+Defense: 6
+Skill: 6
+Speed: 5
+Movement Range: 4
+Weapon1: Silver Sword
+Weapon2: DUMMY
+Weapon3: DUMMY
+Weapon4: DUMMY
+Item1: Potion
+	Uses Left: 3
+Item2: DUMMY
+	Uses Left: 0
+Item3: DUMMY
+	Uses Left: 0
+Item4: DUMMY
+	Uses Left: 0
+Wieldable: Sword
