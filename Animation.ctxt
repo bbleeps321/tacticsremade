@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=class\ Animation
+comment0.text=\nStores\ and\ controls\ the\ animation\ processes.\n\n
+comment1.params=xCoord\ yCoord\ fontSize\ right\ left\ g
+comment1.target=void\ paintComponent(int,int,int,Unit,Unit,Graphics)
+comment1.text=\nPaints\ the\ animation\ onto\ the\ canvas\ at\ the\ specified\ coordinates.\n\n
+comment2.target=IMAGE_TYPE
+comment3.target=DELAY
+comment4.target=ANIM_DIRECTORY
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=class\ Tactics
+comment0.text=\nFrom\ where\ the\ program\ is\ run.\nContains\ the\ "main"\ thread.\nControls\ the\ GUI\ and\ rest\ of\ program.\n\n
+comment1.params=args
+comment1.target=void\ main(String[])
+comment1.text=\nMain\ thread.\ From\ where\ the\ program\ is\ run.\n\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ createAndShowGUI()
+comment3.text=\nCreates\ and\ displays\ the\ GUI.\n\n
+comment4.params=
+comment4.target=Tactics()
+comment4.text=\nCreates\ the\ content\ pane.\n\n
+comment5.target=battle
+comment6.target=field
+numComments=7
